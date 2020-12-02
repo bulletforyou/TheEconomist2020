@@ -1,0 +1,15 @@
+###### Songs of innocence and experience
+# Martin Amis’s new book mixes autofiction and writing advice 
+##### “Inside Story” is a reflection on past loves, friendships and a 50-year career 
+![image](images/20201107_BKP001_0.jpg) 
+> Nov 7th 2020 
+Inside Story: How to Write. By Martin Amis. Knopf; 560 pages; $28.95. Jonathan Cape; £20
+ALREADY THE author of four darkly satirical and precociously stylish novels, Martin Amis secured his status as one of Britain’s greatest living writers with “Money” (published in 1984), which followed a depraved narcissist called John Self around the streets of London and New York. In “Experience” (2000), Mr Amis turned to memoir, recounting the extraordinary childhood he spent in the care of a father and stepmother who were both eccentric authors. His latest book, “Inside Story: How to Write”, combines the two forms.
+
+It is a novel, but its main character is called Martin Amis, and the events that make up the story recapitulate those of Mr Amis’s own life, from a devastating house fire to his long friendship with the late journalist Christopher Hitchens. He even incorporates his five children (though their names are changed). Messy as they are, Mr Amis quips, lives are far more difficult to write than fiction, and in narrating his own he skips freely between decades, telling the “inside story” of his rise and 50-year career.
+
+The account of a youthful love affair in the 1970s harks back to his debut, “The Rachel Papers” (1973), albeit now the episode has much darker undertones. Later Mr Amis reflects on the deaths of his father, Kingsley Amis, his mentor, Saul Bellow, and, most crushingly, Hitchens, whose final months with cancer are revisited in excruciating detail. Death looms over “Inside Story”: now 71, Mr Amis observes that it “is almost certainly my last long novel”. The elegiac passages are often moving—where other writers might flounder in a mire of sentimentality, Mr Amis writes about illness with gravity and grace.
+These narrative sections are broken up by short intermissions in which he takes on his subtitle, “How to Write”, reflecting on his craft and offering advice. Some of his points are peevish—“‘myself’ is just a crap word”—but most, such as a warning against repeating affixes, will prove useful for regular writers of English, from office workers to novelists. And though Mr Amis, set in his ways after dozens of books, can seem a little curmudgeonly, he ends his lessons on a heartening note. Good writing, he says, “is achievable by anyone willing to put in the time”.
+With each sumptuous sentence he proves his credentials as both an instructor and a worthwhile subject for the kind of autobiographical fiction that is now in vogue. For fans of his work, “Inside Story” is a victory lap; newcomers will be steered towards his rich back catalogue. ■
+Listen to our interview with Martin Amis at 
+

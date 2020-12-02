@@ -1,0 +1,20 @@
+###### Déjà vu all over again
+# Once again, less-educated whites spurned America’s Democratic nominee 
+##### Polls incorrectly predicted that Joe Biden would claw back some of his party’s losses with this group 
+> Nov 11th 2020 
+
+
+FOR THE second presidential election in a row, polls underestimated support for Donald Trump and the Republicans. In states that have mostly finished counting votes, the error of an average of presidential polls released during the final two weeks of the campaign was 5.5 percentage points, nearly double the average miss of 3.1 percentage points registered in 2000-16. Moreover, whereas both major candidates in 2016 benefited from state-level errors—Hillary Clinton won California by seven points more than pollsters expected—this year, virtually all of the misfires were underestimating support for Mr Trump.
+What went wrong? Exit polls do not provide a trustworthy answer: their estimates of vote margins within each demographic category, as well as the share of the electorate each group represents, are often biased and differ vastly from other sources. The final analysis will have to wait until all ballots are counted and rigorous post-election studies can be conducted. However, statisticians can unearth promising clues by exploring the relationships between official vote totals in counties where tabulation is nearly complete and those areas’ demographic makeup. These data show that Mr Biden failed to realise one of his central electoral promises: clawing back some of Democrats’ recent losses among white voters without college degrees.
+
+Among the most reliable analyses of the election of 2016 is a study published by the Pew Research Centre, a polling and research organisation, which surveyed 3,000 voters confirmed to have cast ballots that year. Pew also published a nationwide poll this October, making possible direct comparisons of how voting intentions had changed within each demographic group.
+Pew found that Mr Trump had made inroads with black and Hispanic voters, trimming his deficits with these groups by four percentage points, while suffering an offsetting four-point decline among college-educated whites. However, most of Mr Biden’s predicted gains relative to Mrs Clinton came from whites without degrees: he was expected to reduce Mr Trump’s margin with such voters by ten percentage points.
+The county-level data affirm some of these findings. Places with lots of college-educated whites, particularly in suburbs, did indeed swing towards Mr Biden this year—a trend that will probably make him the first Democrat to win Georgia or Arizona since Bill Clinton. Similarly, Mr Trump fared far better in majority-Hispanic counties than he did in 2016, padding his advantages over Mr Biden in Florida and Texas.
+However, there was scant evidence that white voters without degrees preferred Mr Biden to Mrs Clinton. Mr Trump’s margins of victory in white working-class counties this year were just as large on average, and in some places even bigger, than in 2016. As a result, Mr Biden had to rely mostly on his strength in affluent suburbs to rebuild Democrats’ “blue wall” of Wisconsin, Michigan and Pennsylvania. He won these states by far smaller margins than pollsters expected, and just barely squeaked by in Wisconsin, the decisive state in the electoral college in both 2016 and 2020.
+
+
+So far, most attention has focused on Mr Trump’s gains among Hispanics, which appear to have been even greater than polls foresaw. However, the durability of his edge among less-educated whites, a much larger group than Hispanics, is far more electorally consequential. No one knows how much of this affinity is specific to Mr Trump, and how much will carry over to other Republican candidates. The party’s electoral future depends largely on its ability to keep these supporters, while making itself more palatable to the college-educated white voters who have abandoned it. ■
+Sources: US Census Bureau; Decision Desk HQ; Pew Research Centre; 
+
+Dig deeper:For the latest on the election, see our , read the  and then sign up for Checks and Balance, our  and  on American politics.
+

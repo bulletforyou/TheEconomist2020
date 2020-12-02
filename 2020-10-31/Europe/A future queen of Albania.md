@@ -1,0 +1,12 @@
+###### Baby Zog
+# A future queen of Albania? 
+##### A Ruritanian royal family hasn’t quite given up hope of regaining a throne 
+![image](images/20201031_EUP501.jpg) 
+> Oct 31st 2020 
+ON OCTOBER 22ND Albania’s royal family was “delighted to announce” the birth of Princess Geraldine. The happy parents are Leka Anwar Zog Reza Baudouin Msiziwe Zogu, or more simply Prince Leka II, who claims the throne, and his wife Princess Elia, an actress. Could the baby one day be queen?
+In 1997 Albania was the only former communist state to hold a referendum on restoring a monarchy. A third of voters were in favour. Prince Leka’s father, the self-proclaimed Leka I, who was let back into his homeland in 1993, marched on the electoral commission in Tirana, the capital, to complain of fraud. A man was killed in an ensuing gun battle.
+
+The longest-serving ruler of the state that emerged after centuries of Ottoman Turkish rule was an exceptionally vicious communist, Enver Hoxha, who reigned from the end of the second world war until his death in 1985. But in the interwar years it was Ahmed Zogu, a tribal chieftain, who ran the show. Rising from minister of interior to president, he had himself declared king in 1928. But Mussolini’s Italians invaded in 1939 and chased him out. He died in France in 1961.
+King Zog was a rough-hewn moderniser. Some Albanians hark back to his time with nostalgic sentimentality. Tirana, the capital, has a statue of Zog and a Zog Boulevard. But Zog’s son Leka, the current claimant’s late father, though as tall as a basketball player, was less impressive. Born to a half-Hungarian half-American aristocrat (also called Geraldine) a few days before Zog’s flight, he was brought up in England, Egypt and Switzerland. He resided—among other places—in Spain, the then Rhodesia, and South Africa, and married an Australian divorcee. Fascinated by guns, he tirelessly hankered after a royal restoration. In 1979 he was expelled from Spain for flouting arms regulations. His only son was born in South Africa. In 2002 Albania’s post-communist parliament invited the family home, granting them privileges that included diplomatic passports.
+Erion Veliaj, Tirana’s mayor, says Leka is “too nice” for Albania’s rough-and-tumble politics. Asked if he would like to be king, the prince says coyly in a lilting South African accent that he “would like to serve in any way that is possible”. In the “theoretical” case of a restoration it would be “very possible”, he says, to imagine the latest Geraldine being crowned Queen of the Albanians.
+
