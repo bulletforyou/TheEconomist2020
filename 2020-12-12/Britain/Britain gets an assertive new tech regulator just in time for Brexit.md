@@ -1,0 +1,17 @@
+###### Injection of confidence
+# Britain gets an assertive new tech regulator just in time for Brexit 
+##### The Digital Markets Unit will write bespoke rules for big companies 
+![image](images/20201212_BRP504.jpg) 
+> Dec 12th 2020 
+
+DECEMBER 8TH was a big day for jabs in Britain. In Coventry, at the crack of dawn, Margaret Keenan became the first person in the world to receive a proven covid-19 vaccine. Meanwhile, in London, the Competition and Markets Authority (CMA) published the blueprint for a new regime of oversight of tech companies. Less momentous, it nonetheless provides a shot in the arm to Britain’s post-Brexit regulatory reputation. “Ground-breaking” is how one competition lawyer describes it.
+
+The idea of the new regime is something called “ex ante” regulation, which tells big companies how they should behave, rather than asking for remedies after they have misbehaved. The old approach works for slow-moving industries. But digital ones change too quickly for retroactive enforcement to do much good. To fix that, a new regulator, the Digital Markets Unit (DMU), will write and enforce the rules for tech. The government intends to get it up and running by April 2021, and has committed to making it a statutory body.
+
+
+Most competition law applies to all firms, or is written for specific industries. The DMU will take this a step further, assigning certain companies “strategic market status”—meaning they have “entrenched market power”—and tailoring a bespoke code of conduct for that particular firm. Fines for failing to comply will reach 10% of global revenue. New rules will also come into place around mergers, allowing regulators to consider how a startup might develop, rather than looking only at its current market status. The current “ex post” regime means regulators sometimes have to try to fix problems years after harm is already done. On December 9th America’s Federal Trade Commission filed an antitrust lawsuit against Facebook, alleging that it had “targeted potential competitive threats to its dominance”, buying Instagram in 2012 and WhatsApp in 2014.
+
+The significance of the CMA’s plan goes beyond its effect on technology companies. The CMA is “setting out its stall as a world leader in competition post-Brexit”, says Katherine Kirrage, a digital competition and regulatory lawyer at Osborne Clarke, a law firm. The publication of its proposals precede by a week new rules from the European Commission, which will probably be similar in spirit. The CMA’s powers to conduct market studies and investigations are a model for other regulators. And it will also play an important role in co-ordinating various British government policies, including a code of conduct for technology firms to prevent “online harms”, and new rules around how social media and search engines interact with British journalism.
+
+There are political considerations to all this. The government now has to enshrine the DMU’s powers in law, but will want to ensure Britain remains an attractive place for big tech companies after Brexit. Tighten the rules too much and firms may flee to Dublin or Amsterdam; leave them too loose and it risks damaging relations with the EU. So far, Britain’s plans are broadly in step with how Europe and other countries are thinking about competition in the tech sector, says Damian Tambini of the London School of Economics, and regulators have worked well together. That is an encouraging start. But it is unlikely to inoculate against other challenges to come. ■
+
