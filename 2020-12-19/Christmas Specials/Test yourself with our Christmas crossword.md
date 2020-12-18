@@ -1,0 +1,19 @@
+###### Crossword
+# Test yourself with our Christmas crossword 
+##### A cryptic challenge for all cruciverbalists 
+> Dec 19th 2020 
+
+CRYPTIC CROSSWORDS look tricky, but there are conventions that can help newcomers. Most clues comprise a cryptic part and a straight definition (often a synonym of the answer). Consider the following:
+
+
+
+
+To solve it, write ‘nip’ backwards before the letter ‘k’ (the ‘end’ of the word ‘week’) to get ‘pink’ (a shade or colour). In this example, ‘shade’ is the definition (or straight part of the clue), and the rest is the cryptic part. All of the clues below have at least one definition, which you can highlight all at once using the ‘Show definitions’ button, or individually by hovering over or tapping each clue then selecting the ‘Define’ button. There's also an explanation of how each clue is constructed, and if you're still stuck, you can see the solution too. Your answers will be automatically saved.
+
+
+You can also download a  of the crossword plus a bonus cut-out-and-create tree ornament, and don't forget the .
+
+
+
+
+
