@@ -2,11 +2,7 @@
 
 经济学人MarkDown版文章
 
-欢迎关注公众号：
 
-![image](images/qrcode.png) 
-
-由于电脑空间有限没有存储所有期刊，如有需要其他日期的期刊可以关注公众号后回复666可获取经济学人爬虫，自行获取文章。
 
 本仓库文件来源于俄罗斯公益团体open_digital_library 若该仓库无法顺利使用，可以转到这个仓库：https://getmyte.com/
 
